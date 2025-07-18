@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @tunlonely
 - 👀 I’m interested in coding, games, basketball
-- 🌱 I’m currently learning python and C++
+- 🌱 I’m currently learning Frontend Dev and CyberSecurity
 - 😄 Pronouns: He/Him
