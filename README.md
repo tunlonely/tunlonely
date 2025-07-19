@@ -12,11 +12,11 @@ I love meeting new people, exchanging ideas and spreading knowledge and positivi
 
 ### 🔥 Streak Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=USERNAME&theme=dark&hide_border=true" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=tunlonely&theme=dark&hide_border=true" alt="streak stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=dark&hide_border=true" alt="github stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tunlonely&show_icons=true&theme=dark&hide_border=true" alt="github stats"/>
 </p>
 
 ---
@@ -35,8 +35,8 @@ I love meeting new people, exchanging ideas and spreading knowledge and positivi
 ---
 
 ### 📊 GitHub Stats (Expand to View)
-- [**GitHub Profile Stats**](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=dark)
-- [**Recent GitHub Activity**](https://github-readme-streak-stats.herokuapp.com?user=USERNAME&theme=dark)
+- [**GitHub Profile Stats**](https://github-readme-stats.vercel.app/api?username=tunlonely&show_icons=true&theme=dark)
+- [**Recent GitHub Activity**](https://github-readme-streak-stats.herokuapp.com?user=tunlonely&theme=dark)
 
 ---
 
